@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "react-firebase-project-04-dev"
-  }
+    "default": "react-firebase-project-04-prod",
+    "dev-branch": "react-firebase-project-04-prod"
+  },
+  "targets": {}
 }
